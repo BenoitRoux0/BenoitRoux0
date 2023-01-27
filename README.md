@@ -4,5 +4,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 42 projects
 - 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on Minishell
 - 📫 How to reach me: 42benoit.roux@gmail.com
