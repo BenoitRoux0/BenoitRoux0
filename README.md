@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on 42 projects
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning rust
 - 📫 How to reach me: 42benoit.roux@gmail.com
