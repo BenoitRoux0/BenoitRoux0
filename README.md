@@ -17,12 +17,6 @@ Welcome to my GitHub profile!
 - Shell scripting & automation (Bash, Python)
 - Performance optimization & debugging
 
-## 📫 How to reach me
-
-- Email: 42benoit.roux@gmail.com
-- [My Resume](https://cv.42.fr/beroux)
-
-
 ## Projects
 ### Networking
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BenoitRoux0&repo=ft_ping)](https://github.com/BenoitRoux0/ft_ping)
@@ -31,6 +25,10 @@ Welcome to my GitHub profile!
 ### DevOps
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Papaquerette&repo=Inception-of-Things)](https://github.com/Papaquerette/Inception-of-Things)
 
+## 📫 How to reach me
+
+- Email: 42benoit.roux@gmail.com
+- [My Resume](https://cv.42.fr/beroux)
 
 ---
 
