@@ -22,9 +22,6 @@ Welcome to my GitHub profile!
 - Email: 42benoit.roux@gmail.com
 - [My Resume](https://cv.42.fr/beroux)
 
----
-
-Thanks for visiting my profile! 🚀
 
 ## Projects
 ### Networking
@@ -33,3 +30,8 @@ Thanks for visiting my profile! 🚀
 
 ### DevOps
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Papaquerette&repo=Inception-of-Things)](https://github.com/Papaquerette/Inception-of-Things)
+
+
+---
+
+Thanks for visiting my profile! 🚀
