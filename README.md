@@ -19,11 +19,11 @@ Welcome to my GitHub profile!
 
 ## Projects
 ### Networking
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BenoitRoux0&repo=ft_ping)](https://github.com/BenoitRoux0/ft_ping)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BenoitRoux0&repo=ft_traceroute)](https://github.com/BenoitRoux0/ft_traceroute)
+[![FT Ping](https://github-readme-stats.vercel.app/api/pin/?username=BenoitRoux0&repo=ft_ping)](https://github.com/BenoitRoux0/ft_ping)
+[![FT Traceroute](https://github-readme-stats.vercel.app/api/pin/?username=BenoitRoux0&repo=ft_traceroute)](https://github.com/BenoitRoux0/ft_traceroute)
 
 ### DevOps
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Papaquerette&repo=Inception-of-Things)](https://github.com/Papaquerette/Inception-of-Things)
+[![Inception of Things](https://github-readme-stats.vercel.app/api/pin/?username=Papaquerette&repo=Inception-of-Things)](https://github.com/Papaquerette/Inception-of-Things)
 
 ## 📫 How to reach me
 
