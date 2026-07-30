@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 
-- Email: benoit@roux.gnd
+- Email: benoit@roux.gdn
 - [My Resume](https://cv.42.fr/beroux)
 
 ---
